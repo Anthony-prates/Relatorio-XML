@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<andamentos>
+
+  <andamento>
+    <processo>
+      <acao>Aposentadoria Tipo 10</acao>
+      <materia>PREVIDENCIÁRIO - RGPS</materia>
+      <PJ>98076</PJ>
+      <perfil>PROCESSO SIMULADO - BASE DE TESTES</perfil>
+      <OJ_numero>0</OJ_numero>
+    </processo>
+    <ID_Tramitacao>810001</ID_Tramitacao>
+    <DescricaoTipo>Análise Inicial</DescricaoTipo>
+    <data_recebimento>01/09/2025</data_recebimento>
+    <data_evento>01/09/2025</data_evento>
+    <evento>Registro automático</evento>
+    <update_usuario>2101</update_usuario>
+    <ag_pessoa>61001</ag_pessoa>
+    <solicitado_por>49840</solicitado_por>
+    <responsavel_nome>ROSANE</responsavel_nome>
+    <agendado_para>61001</agendado_para>
+    <ag_data_hora>01/09/2025</ag_data_hora>
+    <cumprido_em>02/09/2025</cumprido_em>
+    <arquivos>
+      <arquivo>
+        <nome>REQUERIMENTO_CLIENTE_X01.pdf</nome>
+        <descricao_documento>Requerimento fictício</descricao_documento>
+        <data>REQUERIMENTO_CLIENTE_X01.pdf</data>
+      </arquivo>
+    </arquivos>
+  </andamento>
+
+  <andamento>
+    <processo>
+      <acao>Aposentadoria Tipo 11</acao>
+      <materia>PREVIDENCIÁRIO - RGPS</materia>
+      <PJ>85463</PJ>
+      <perfil>PROCESSO SIMULADO - BASE DE TESTES</perfil>
+      <OJ_numero>0</OJ_numero>
+    </processo>
+    <ID_Tramitacao>810002</ID_Tramitacao>
+    <DescricaoTipo>Validação</DescricaoTipo>
+    <data_recebimento>02/09/2025</data_recebimento>
+    <data_evento>02/09/2025</data_evento>
+    <evento>Documentos conferidos</evento>
+    <update_usuario>2102</update_usuario>
+    <ag_pessoa>61002</ag_pessoa>
+    <solicitado_por>30756</solicitado_por>
+    <responsavel_nome>LUCIA</responsavel_nome>
+    <agendado_para>61002</agendado_para>
+    <ag_data_hora>02/09/2025</ag_data_hora>
+    <cumprido_em>03/09/2025</cumprido_em>
+    <arquivos>
+      <arquivo>
+        <nome>CALCULO_PREV_CLIENTE_X02.xlsx</nome>
+        <descricao_documento>Cálculo previdenciário fictício</descricao_documento>
+        <data>CALCULO_PREV_CLIENTE_X02.xlsx</data>
+      </arquivo>
+    </arquivos>
+  </andamento>
+
+  <andamento>
+    <processo>
+      <acao>Aposentadoria Tipo 12</acao>
+      <materia>PREVIDENCIÁRIO - RGPS</materia>
+      <PJ>435268</PJ>
+      <perfil>PROCESSO SIMULADO - BASE DE TESTES</perfil>
+      <OJ_numero>0</OJ_numero>
+    </processo>
+    <ID_Tramitacao>810003</ID_Tramitacao>
+    <DescricaoTipo>Conferência Técnica</DescricaoTipo>
+    <data_recebimento>03/09/2025</data_recebimento>
+    <data_evento>03/09/2025</data_evento>
+    <evento>Análise técnica concluída</evento>
+    <update_usuario>2103</update_usuario>
+    <ag_pessoa>61003</ag_pessoa>
+    <solicitado_por>34309</solicitado_por>
+    <responsavel_nome>JOSIANE</responsavel_nome>
+    <agendado_para>61003</agendado_para>
+    <ag_data_hora>03/09/2025</ag_data_hora>
+    <cumprido_em>04/09/2025</cumprido_em>
+    <arquivos>
+      <arquivo>
+        <nome>PARECER_CLIENTE_X03.pdf</nome>
+        <descricao_documento>Parecer técnico fictício</descricao_documento>
+        <data>PARECER_CLIENTE_X03.pdf</data>
+      </arquivo>
+    </arquivos>
+  </andamento>
+
+  <andamento>
+    <processo>
+      <acao>Aposentadoria Tipo 13</acao>
+      <materia>PREVIDENCIÁRIO - RGPS</materia>
+      <PJ>24567</PJ>
+      <perfil>PROCESSO SIMULADO - BASE DE TESTES</perfil>
+      <OJ_numero>0</OJ_numero>
+    </processo>
+    <ID_Tramitacao>810004</ID_Tramitacao>
+    <DescricaoTipo>Finalização</DescricaoTipo>
+    <data_recebimento>04/09/2025</data_recebimento>
+    <data_evento>04/09/2025</data_evento>
+    <evento>Processo finalizado</evento>
+    <update_usuario>2104</update_usuario>
+    <ag_pessoa>61004</ag_pessoa>
+    <solicitado_por>32917</solicitado_por>
+    <responsavel_nome>LUARA</responsavel_nome>
+    <agendado_para>61004</agendado_para>
+    <ag_data_hora>04/09/2025</ag_data_hora>
+    <cumprido_em>05/09/2025</cumprido_em>
+    <arquivos>
+      <arquivo>
+        <nome>DECISAO_FINAL_CLIENTE_X04.pdf</nome>
+        <descricao_documento>Decisão fictícia</descricao_documento>
+        <data>DECISAO_FINAL_CLIENTE_X04.pdf</data>
+      </arquivo>
+    </arquivos>
+  </andamento>
+
+</andamentos>
