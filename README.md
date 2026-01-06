@@ -33,3 +33,4 @@ python backend/xml_relatorio.py
 - `backend/xml_relatorio.py`: lógica principal.
 - `backend/pasta_XML/`: coloque aqui os XMLs de entrada.
 - `backend/pasta_XLSX/`: saída XLSX gerada.
+
